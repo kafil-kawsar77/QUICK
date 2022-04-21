@@ -1,0 +1,178 @@
+/* common start*/
+body{
+    margin: 0;
+    padding: 0;
+}
+/* common end*/
+
+
+/* header start */
+header{
+    padding: 20px 0;
+    border-bottom: 2px solid #0f26561a;
+}
+.container{
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+}
+.logo{
+    float: left;
+    padding: 5px;
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+    float: right;
+    width: 60%;
+}
+.menu ul{
+float: right;
+}
+.menu ul li{
+list-style: none;
+float: left;
+}
+.menu ul li a{
+    list-style: none;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 0 25px;
+  color: #0084FF;
+display: inline-block;
+position: relative;
+    font-family: Arial;
+}
+
+/* header end */
+
+/* banner start*/
+.banner {
+padding: 40px 0;
+}
+
+.container2 {
+width: 40%;
+/*border: 1px solid red;*/
+margin: 0 auto;
+}
+
+.b_text {
+    text-align: center;
+}
+
+.b_text h1{
+font-size: 50px;
+
+color: #0F2656;
+margin: 25px 90px;
+line-height: 65px;
+}
+.b_text h1 span{
+    color: #0084FF;
+    
+}
+.b_text p{
+    font-size: 16px;
+    color: #0F2656;
+  
+    line-height: 20px;
+    margin: 0 10px 25px;
+}
+
+.b_img {
+width: 75%;
+/*border: 1px solid;*/
+margin: 0 auto;
+}
+.b_img img{
+width:100% ;
+}
+
+/* banner end*/
+/* success start */
+.success{
+    padding: 50px 0;
+   
+}
+.s_content{
+overflow: hidden;
+padding: 0 39px;
+}
+.s_left{
+    width: 44%;
+float: left;
+padding: 10px 20px;
+text-align: right;
+}
+.s_left h2{
+font-size: 40px;
+margin: 0;
+color: #F15767;
+}
+.s_left p{
+font-size: 18px;
+color: #0F2656;
+}
+.s_right{
+    width: 44%;
+float: right;
+padding: 10px 20px;
+}
+.s_right h1{
+font-size: 37px;
+color: #0A2152;
+margin: 0;
+}
+/* success end */
+/* service start */
+.service {
+    padding: 50px 0;
+}
+
+.s_wrapper {
+    overflow: hidden;
+}
+.red{
+    background-color: #FDEBED;
+}
+.green{
+    background-color: #eaf9f4;
+}
+.blue{
+    background-color: #fff8e8;
+}
+.s_single {
+    float: left;
+width: 27%;
+padding: 50px 43px;
+
+margin-right: 28px;
+}
+.s_single:last-child{
+    margin-right: 0;
+}
+.s_img{
+
+}
+.s_img img{
+width: 100%;
+}
+.s_text{
+
+}
+/* service end */
+/* footer start */
+footer{
+    background-color: #008aff;
+}
+.f_text{
+    text-align: center;
+    color: #c9d2ff;
+}
+.f_text p span{
+    color: #ffffff;
+    letter-spacing: 5px;
+}
+/* footer end */
