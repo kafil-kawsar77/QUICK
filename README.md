@@ -1,2 +1,2 @@
 # QUICK01
-https://kafil-kawsar.github.io/QUICK/
+https://kafil-kawsar77.github.io/QUICK/
